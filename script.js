@@ -1,6 +1,7 @@
 // You can add any interactive elements or functionality here
 console.log("Welcome to my personal site!");
-
+// script.js
+console.log("Hello World");
 // Example: Add a simple dark mode toggle
 const toggleDarkMode = () => {
   document.body.classList.toggle("dark-mode");
